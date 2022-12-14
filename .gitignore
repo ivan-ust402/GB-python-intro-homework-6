@@ -49,3 +49,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Extra files
+examples.py
+examples_test.py
